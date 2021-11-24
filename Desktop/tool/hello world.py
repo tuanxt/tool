@@ -10,3 +10,4 @@ for r, d, f in os.walk(thisdir):
             print(os.path.join(r, file))
 #hello2
 for main
+for 3
