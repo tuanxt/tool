@@ -9,3 +9,4 @@ for r, d, f in os.walk(thisdir):
         if ".docx" in file:
             print(os.path.join(r, file))
 #hello2
+for main
